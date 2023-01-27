@@ -11,9 +11,10 @@ As the code in this matter is only relevant to check wether what we describe in 
 
 
 Therefore, in this git we uploaded only the files that are relevant for what is described in the Final Document:
-  -php:       The Server Side PHP files that are relevant for each page (Some of these php files, include the queries for the database)
-  -js:        The javascript functions that make requests to the server (to call a PHP function)
-  -database:  The 5 tables from the database that are responsible for the functionalities of our scope
+  - php:       The Server Side PHP files that are relevant for each page (Some of these php files, include the queries for the database)
+  - js:        The javascript functions that make requests to the server (to call a PHP function)
+  - database:  The 5 tables from the database that are responsible for the functionalities of our scope
+  
   
   
 The complete website was implemented and shown in the second presentation aswell so this is why we believe it is not as relevant to include technical details of wordpress.
