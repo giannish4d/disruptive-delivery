@@ -1,16 +1,13 @@
-As explained in the document, the whole project was developed in WordPress. This was done to help with the User Interface, connection to database, login system etc. 
-Local by Flewheel was used to run the WordPress locally, therefore it is not live
+As explained in the document, the whole project was developed in WordPress. This was done to help with the User Interface, connection to database, login system etc. Local by Flewheel was used to run the WordPress locally, therefore it is not live
 
+As the code in this matter is only relevant to check wether what we describe in the Final Document matches with the implementation, in this git we do not include the whole WordPress project for the following reasons:
 
-As the code in this matter is only relevant to check wether what we describe in the Final Document matches with the implementation, in this git we do not include the
-whole WordPress project for the following reasons:
   - It is hard to import a whole WordPress project as everything has to be very precise on what versions of php,database and webserver you are going to use.
   - In the MariaDB database, a lot of metadata are included that are only used to support the functionality of the WordPress dashboard
   - PHP functions are in a global functions.php file in the WordPress's current theme directory.
   - In some pages (e.g the Homepage), the design of HTML pages was done by WordPress and then custom HTML blocks were used to write the javascript functions.
   - Login system was implemented by a plugin
   - Master page - header,footer etc. were designed by the WordPress's theme (with a UI) and basically the stylesheet was applied automatically to each page
-
 
 
 Therefore, in this git we uploaded only the files that are relevant for what is described in the Final Document:
