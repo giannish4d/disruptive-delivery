@@ -1,3 +1,7 @@
+# Disruptive Delivery
+## Group 45
+
+
 As explained in the document, the whole project was developed in WordPress. This was done to help with the User Interface, connection to database, login system etc. Local by Flewheel was used to run the WordPress locally, therefore it is not live
 
 As the code in this matter is only relevant to check wether what we describe in the Final Document matches with the implementation, in this git we do not include the whole WordPress project for the following reasons:
@@ -20,3 +24,4 @@ Therefore, in this git we uploaded only the files that are relevant for what is 
 The complete website was implemented and shown in the second presentation aswell so this is why we believe it is not as relevant to include technical details of wordpress.
 However if it is requested, I can make the WordPress project live on a server and give admin details for the dashboard. 
 
+-Yiannis, Estelle
